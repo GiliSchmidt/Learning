@@ -35,7 +35,7 @@ public class LockBlockOfCode {
  *
  * @author Giliardi Schmidt
  */
-class Worker {
+class Worker{
 
     //locks that`ll be checked inside synchronized(LOCK){}
     private Object lock1 = new Object();

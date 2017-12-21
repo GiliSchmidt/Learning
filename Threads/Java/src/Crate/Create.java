@@ -10,6 +10,9 @@ package Crate;
  *
  * Create 3: doing it directly
  *
+ * IT'S BETTER TO USE THE SECOND METHOD (extends Runnable), BECAUSE IN JAVA YOU
+ * CAN EXTEND ONLY ONE CLASS, BUT MAY IMLEMENT MORE THAN ONE INTERFACE!
+ *
  * @author Giliardi Schmidt
  */
 public class Create {
@@ -85,4 +88,3 @@ class Create_Example2 implements Runnable {
     }
 
 }
-
