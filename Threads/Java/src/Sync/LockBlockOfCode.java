@@ -19,7 +19,7 @@ public class LockBlockOfCode {
 }
 
 /**
- * Please read the description of the class LockClass, the principle is the
+ * Please read the description of the class (Example) LockClass, the principle is the
  * same. The difference is that using the word synchronized in the method
  * signature it'll lock the entire class, so one Thread wouldn't be able to run
  * stageTwo() if another Thread was running stageOne(). One Thread would need to

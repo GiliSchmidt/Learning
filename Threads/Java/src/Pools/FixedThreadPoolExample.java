@@ -17,7 +17,7 @@ public class FixedThreadPoolExample {
 
     public static void main(String[] args) {
         //creates a Thread pool of size n
-        //only n new threads'll be created and they'll be reusable
+        //only n threads'll be created and they'll be reusable
         //note when running the code that only 2 Processors'll be running at the same time, in this example
         ExecutorService executor = Executors.newFixedThreadPool(2);
 
