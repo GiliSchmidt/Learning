@@ -1,6 +1,6 @@
 /*
  */
-package Advanced;
+package ProducerConsumer;
 
 import java.util.Scanner;
 import java.util.logging.Level;

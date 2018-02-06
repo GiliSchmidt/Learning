@@ -1,6 +1,6 @@
 /*
  */
-package Advanced;
+package ProducerConsumer;
 
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
